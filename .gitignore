@@ -20,6 +20,18 @@ target/
 .settings
 .springBeans
 .sts4-cache
+    # IntelliJ IDEA
+    .idea/
+    *.iml
+
+    # Директории, связанные с IntelliJ IDEA
+    .idea/
+
+    # Лог-файлы IntelliJ IDEA
+    *.log
+
+    # Директории временных файлов
+    out/
 
 ### NetBeans ###
 /nbproject/private/
